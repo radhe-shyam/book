@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e7d8df4f.css",
+    "main.js": "/static/js/main.e168aacf.js",
+    "static/media/ambikacharitpdf.pdf": "/static/media/ambikacharitpdf.d5b65575a12f0d01c525.pdf",
+    "static/media/swamiji.jpg": "/static/media/swamiji.d26b0e8f5a8e74b7cb33.jpg",
+    "static/media/navdurga.jpg": "/static/media/navdurga.c60ccfed16386cb07519.jpg",
+    "index.html": "/index.html",
+    "main.e7d8df4f.css.map": "/static/css/main.e7d8df4f.css.map",
+    "main.e168aacf.js.map": "/static/js/main.e168aacf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e7d8df4f.css",
+    "static/js/main.e168aacf.js"
+  ]
+}
